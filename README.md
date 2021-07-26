@@ -4,8 +4,8 @@ Project LIVE on https://serene-swartz-68d7e2.netlify.app/
 
 ## Project Screenshots
 
-<img src=""/>
-<img src=""/>
+<img src="Screenshots/Screenshot (30).png"/>
+<img src="Screenshots/Screenshot (31).png"/>
 
 ## Getting Started with Create React App
 
